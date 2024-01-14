@@ -1,2 +1,4 @@
 # NEWPROJECT
 PROJECT FOR LEARNING
+
+### steps to follow
